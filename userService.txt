@@ -5,3 +5,5 @@ alloting data
 secure data
 
 gettiing data
+
+integrate data
